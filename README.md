@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi👋, I'm Jainish Patel:
 Hi, I’m a passionate B.Tech IT student and an aspiring Software Engineer who loves building smart and scalable digital solutions.<br><br>💻 Skilled in MERN Stack (MongoDB, Express.js, React, Node.js), I enjoy creating modern, responsive, and user-friendly web applications that solve real-world problems.<br>🤖 Currently exploring AI/ML & Data Science to integrate intelligent features into web apps and build innovative tech solutions.<br>☕ Strong foundation in Java, Data Structures & Algorithms, and actively sharpening problem-solving skills on LeetCode.
 
 
