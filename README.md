@@ -20,9 +20,9 @@ Jaypal Singh is a dedicated Bachelor of Technology student specializing in Infor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypal-singh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypal-singh&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypal-singh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypal-singh&layout=compact&theme=dark)
 
 </div>
 
