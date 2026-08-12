@@ -4,7 +4,7 @@
 
 ### B.Tech Student in Information Technology | Visnagar, Gujarat, India
 
-Jaypal Singh is a dedicated Bachelor of Technology student specializing in Information Technology with a strong focus on machine learning and natural language processing. He has hands-on experience in developing AI-driven solutions for real-world problems, including phishing detection and customer segmentation in e-commerce. With a solid foundation in programming and data science, he is eager to tackle complex challenges in the tech industry.
+Jaypal Singh is a dedicated Bachelor of Technology student specializing in Information Technology with a strong focus on machine learning and natural language processing. He has hands-on experience in developing AI-driven solutions for real-world problems, With a solid foundation in programming and data science, he is eager to tackle complex challenges in the tech industry.
 
 </div>
 
